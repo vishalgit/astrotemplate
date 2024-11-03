@@ -17,6 +17,8 @@ return {
   { import = "astrocommunity.pack.php" },
   { import = "astrocommunity.pack.rust" },
   { import = "astrocommunity.pack.typescript-all-in-one" },
-  { import = "astrocommunity.pack.go" }
+  { import = "astrocommunity.pack.go" },
+  { import = "astrocommunity.file-explorer.oil-nvim" }
+  
   -- import/override with your plugins folder
 }
