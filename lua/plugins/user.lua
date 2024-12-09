@@ -82,4 +82,7 @@ return {
       )
     end,
   },
+  {
+    "ionide/Ionide-vim",
+  },
 }
