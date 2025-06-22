@@ -19,8 +19,7 @@ return {
   { import = "astrocommunity.pack.typescript-all-in-one" },
   { import = "astrocommunity.pack.go" },
   { import = "astrocommunity.pack.ruby" },
-  { import = "astrocommunity.file-explorer.oil-nvim" },
-  { import = "astrocommunity.note-taking.neorg" }
+  { import = "astrocommunity.file-explorer.oil-nvim" }
   
   -- import/override with your plugins folder
 }
