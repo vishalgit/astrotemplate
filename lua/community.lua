@@ -20,7 +20,8 @@ return {
   { import = "astrocommunity.pack.go" },
   { import = "astrocommunity.pack.ruby" },
   { import = "astrocommunity.file-explorer.oil-nvim" },
-  { import = "astrocommunity.terminal-integration.vim-tmux-navigator" }
+  { import = "astrocommunity.terminal-integration.vim-tmux-navigator" },
+  { import = "astrocommunity.note-taking.neorg" }
   
   -- import/override with your plugins folder
 }
