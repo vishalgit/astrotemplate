@@ -21,7 +21,8 @@ return {
   { import = "astrocommunity.pack.ruby" },
   { import = "astrocommunity.file-explorer.oil-nvim" },
   { import = "astrocommunity.terminal-integration.vim-tmux-navigator" },
-  { import = "astrocommunity.note-taking.zk-nvim" }
+  { import = "astrocommunity.note-taking.zk-nvim" },
+  { import = "astrocommunity.completion.supermaven-nvim" }
   
   -- import/override with your plugins folder
 }
